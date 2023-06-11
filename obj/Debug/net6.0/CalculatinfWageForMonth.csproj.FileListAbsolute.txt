@@ -1,0 +1,15 @@
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\bin\Debug\net6.0\CalculatinfWageForMonth.exe
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\bin\Debug\net6.0\CalculatinfWageForMonth.deps.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\bin\Debug\net6.0\CalculatinfWageForMonth.runtimeconfig.json
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\bin\Debug\net6.0\CalculatinfWageForMonth.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\bin\Debug\net6.0\CalculatinfWageForMonth.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.csproj.AssemblyReference.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.AssemblyInfoInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.AssemblyInfo.cs
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.csproj.CoreCompileInputs.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\refint\CalculatinfWageForMonth.dll
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.pdb
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\CalculatinfWageForMonth.genruntimeconfig.cache
+C:\Users\MAJEEB ANWAR\OneDrive\Desktop\anwar\CalculatinfWageForMonth\obj\Debug\net6.0\ref\CalculatinfWageForMonth.dll
